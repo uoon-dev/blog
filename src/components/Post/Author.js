@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import config from "../../../content/meta/config";
-import avatar from "../../images/jpg/avatar.jpg";
+import fox from "../../images/jpg/fox.jpg";
 
 const Author = props => {
   const { note, theme } = props;
@@ -12,7 +12,7 @@ const Author = props => {
       <div className="author">
         <div className="avatar">
           <img
-            src={config.gravatarImgMd5 == "" ? avatar : config.gravatarImgMd5}
+            src={config.gravatarImgMd5 == "" ? fox : config.gravatarImgMd5}
             alt={config.siteTitle}
           />
         </div>
