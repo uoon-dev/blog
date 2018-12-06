@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**Fennec Fox** 프론트엔드 개발자로 일하고 있는 페넥여우입니다. 아 백수니까 '일하고 있지 않는'이 더 정확하겠군요. 인터랙티브한 웹에 늘 관심이 많은 전직 연극 례술가이자 백수입니다. 반갑습니다!

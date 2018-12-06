@@ -54,12 +54,12 @@ color:
       k: '#2b2826'
     black: '#000000'
   brand:
-    primary: &color-brand-primary '#709425'
-    primaryActive: '#709425'
-    light: '#709425'
-    lightActive: '#709425'
-    dark: '#709425'
-    darkActive: '#709425'
+    primary: &color-brand-primary '#ff8c00'
+    primaryActive: '#ff8c00'
+    light: '#ff8c00'
+    lightActive: '#ff8c00'
+    dark: '#ff8c00'
+    darkActive: '#ff8c00'
   special:
     attention: &color-special-attention orange
 # FONT

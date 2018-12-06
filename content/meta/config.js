@@ -1,23 +1,23 @@
 module.exports = {
-  siteTitle: "Fennec Fox - The Silent Desert", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "페넥여우 - F324 여우 행성", // <title>
+  shortSiteTitle: "페넥여우 - F324 여우 행성", // <title> ending for posts and pages
+  siteDescription: "프론트엔드 개발자 페넥여우의 오아시스 같은 블로그입니다.",
+  siteUrl: "https://trusting-kare-bf878e.netlify.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
-  siteLanguage: "en",
+  siteLanguage: "ko",
 
   /* author */
-  authorName: "Fennec Fox",
+  authorName: "페넥여우",
   authorTwitterAccount: "slientfennecfox",
 
   /* info */
-  headerTitle: "Fennec Fox",
+  headerTitle: "페넥여우",
   headerSubTitle: "Let bygones be bygones",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "페넥여우의 조용한 사막",
+  manifestShortName: "페넥여우", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",

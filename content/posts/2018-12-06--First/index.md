@@ -1,7 +1,10 @@
 ---
-title: I'd like to be a fox
-category: "testimonies"
+title: 블로그를 개설했습니다.
+category: "일기"
 cover: hero-background4.png
-author: Fennec Fox
+author: 페넥여우
 ---
-:100: Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+드디어 블로그를 개설했습니다. Vuepress로 작업할까 Gastby로 작업할까 고민을 많이 했었지만
+강력한 기능에 비해 Vuepress는 아직 베타 버전이라 커뮤니티 규모와 문서 정리가 아쉽더라구요.
+그래서 결국 Gatsby를 사용해 블로그를 제작했습니다. 물론 스타터킷 테마를 거의 그대로 사용했지만요.
+모쪼록 반갑습니다. 앞으로 잘 부탁드릴게요 :) 
