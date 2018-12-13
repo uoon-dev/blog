@@ -64,7 +64,7 @@ const Contact = props => {
               data-netlify="true"
               data-netlify-honeypot="bot-field"
             >
-              <FormItem label="Name">
+              <FormItem label="이름">
                 {getFieldDecorator("name", {
                   rules: [
                     {
@@ -73,7 +73,7 @@ const Contact = props => {
                   ]
                 })(<Input name="name" />)}
               </FormItem>
-              <FormItem label="E-mail">
+              <FormItem label="이메일">
                 {getFieldDecorator("email", {
                   rules: [
                     {
@@ -85,7 +85,7 @@ const Contact = props => {
                   ]
                 })(<Input name="email" />)}
               </FormItem>
-              <FormItem label="Message">
+              <FormItem label="메시지">
                 {getFieldDecorator("message", {
                   rules: [
                     { required: true, message: "Please input your message!", whitespace: true }
@@ -96,7 +96,7 @@ const Contact = props => {
               </FormItem>
               <FormItem>
                 <Button type="primary" htmlType="submit">
-                  Submit
+                  보내기
                 </Button>
               </FormItem>
             </Form>

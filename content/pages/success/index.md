@@ -1,6 +1,6 @@
 ---
-title: Success
+title: 성공
 ---
 
-Thank you. <br />
-I will answer to your message as soon as possible.
+연락해주셔서 감사합니다. <br />
+가능한 한 빨리 답변드릴게요.
