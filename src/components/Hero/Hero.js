@@ -10,7 +10,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          반갑습니다! 이곳은 <br />
+          반갑습니다!<br /> 이곳은 <br />
           F324 여우 행성입니다.
           {/* Let every fox take <br />
           care of his own tail. */}
@@ -39,7 +39,7 @@ const Hero = props => {
         }
 
         h1 {
-          text-align: center;
+          text-align: left;
           font-size: ${theme.hero.h1.size};
           margin: ${theme.space.stack.l};
           color: ${theme.hero.h1.color};
@@ -60,6 +60,14 @@ const Hero = props => {
               content: "‹";
               margin: 0 0 0 ${theme.space.xs};
             }
+          }
+        }
+
+        @media (min-width: 760px) {
+          h1 {
+            display: flex;
+            justify-content: space-between;
+            margin-left: -80px;
           }
         }
 
